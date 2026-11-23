@@ -12,6 +12,8 @@
 
 Cybersecurity engineering student at ENSA Marrakech, aiming to join a security team as an engineer. I like CTFs, networks and system administration, and I learn best by building and breaking things.
 
+- **Head of the Competition Cell at [GCDSTE ENSA-M](https://github.com/GCDSTE-ENSA-M)**: the club cell that organizes CTFs and builds the challenges for players
+- **Member of the Fsoci3ty team**: competing in CTFs
 - **Offensive Security & CTF**: forensics, steganography, cryptography, OSINT. 🥉 3rd place at GCDSTE x JOBINTECH CTF (Code-212 Marrakech, 2026), participant in AISEC25 (ENSA-M, 2025)
 - **Network & Defensive Security**: TCP/IP traffic analysis, intrusion detection, network simulation (PNetLab). Honeypot project with a TCP/IP header analyzer to detect intrusion attempts (ENSA-M, 2026)
 - **Systems & DevOps**: Docker on Debian 13, Nginx reverse proxy, Portainer container supervision (internship at Chaabi Lil Iskane)
